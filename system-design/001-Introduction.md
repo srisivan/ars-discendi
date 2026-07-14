@@ -1,6 +1,7 @@
 # 001 - What *is* System Design?
-## (14-07-2026)
-========================================
+(14-07-2026)
+
+---
 
 Natual first question, even before broaching the subject of *system-design*, is to simply ask: **What is a System?**
 
