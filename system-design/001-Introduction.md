@@ -1,22 +1,22 @@
-# 001 - What *is* System Design?
+001 - What *is* System Design?
 (14-07-2026)
 
 ---
 
-Natual first question, even before broaching the subject of *system-design*, is to simply ask: **What is a System?**
+Natural first question, even before broaching the subject of *system-design*, is to simply ask: **What is a System?**
 
 ## System:
-- A unified whole, comprising of independent and inter-dependent components which interact with each other according to a set of established rules, to achieve a specific, pre-defined purpose. 
+- A unified whole, comprising of independent and inter-dependent components which interact with each other according to a set of established rules, to achieve a specific, predefined purpose. 
 
 - Inputs -> System -> Outputs 		(*I mean, everyone knows this*)
 
 - Key characteristics of a system:
-	- Interconnectedness, Interdependency
+	- Interconnection, Interdependence
 	- Overall purpose
 	- Boundaries (systems act within rigidly defined boundaries)
 	- Sub-systems
 
-So, having nailed that, let us move on to... System-*Design*:
+So, having nailed that, let us move on to... System-**_Design_**:
 
 ## System Design:
 - Process of defining the components of a system, along with its purpose, boundaries and expected results to satisfy a set of specified requirements.
@@ -34,6 +34,11 @@ So, having nailed that, let us move on to... System-*Design*:
 
 
 ## Personal Notes:
-As can be seen from this prologue, system design is not strictly applied to CS. In fact, in our life, everything is a system, if you observe it closely. Everything has its own components, interactions, boundaries, purpose, and intended results. Applying system-design view to Computer Science allows us to not only build future-proof systems that get the job done while staying true to the requirements, it also gives us a new lens, a new way of looking at the problem, discovering solutions and structures that were previously impossible to see, due to just looking at a block of hardened problem. 
+- As can be seen from this prologue, system design is not strictly applied to CS. 
 
-- Related concepts: Top-Down and Bottom-Up apporach in Object Oriented Programming.
+- In fact, in our life, everything is a system, if you observe it closely. 
+- Everything is composed of its own components, interactions, boundaries, purpose, and intended results. 
+
+- Applying system-design view to Computer Science allows us to not only build future-proof systems that get the job done while staying true to the requirements, it also gives us a new lens, a new way of looking at the problem, discovering solutions and structures that were previously impossible to see, due to just looking at a block of hardened problem. 
+
+- **Related concepts**: Top-Down and Bottom-Up approach in Object Oriented Programming.
